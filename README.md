@@ -1,3 +1,6 @@
+# FROM INVALIDSE:
+This fork only changes one line (comments yield) to make it compile on old C++ versions
+
 # Arduino LoRa
 
 [![Build Status](https://travis-ci.org/sandeepmistry/arduino-LoRa.svg?branch=master)](https://travis-ci.org/sandeepmistry/arduino-LoRa)
